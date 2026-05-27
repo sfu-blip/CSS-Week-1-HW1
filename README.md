@@ -1,2 +1,2 @@
-# CSS-Week-1-HW1
+# sfu-blip.github.io
 First CSS Homework
